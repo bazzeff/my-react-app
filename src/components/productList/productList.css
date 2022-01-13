@@ -30,6 +30,9 @@
   .pl {
     padding: 10px;
   }
+  .pl-title { 
+     margin-top: 180px;
+  }
 
   .pl-texts {
     width: 100%;

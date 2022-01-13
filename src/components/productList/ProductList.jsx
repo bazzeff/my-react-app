@@ -5,7 +5,7 @@ import { products } from "../../data";
 const ProductList = () => {
   return (
     <div className="pl">
-      <div className="pl-texts">
+      <div className="pl-texts"> 
         <h1 className="pl-title">Create & inspire. It's Bazzeffanu</h1>
         <p className="pl-desc">
           Bazzeffanu is a creative portfolio for clients to know more about me.
